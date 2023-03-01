@@ -1,0 +1,9 @@
+/*
+Theme Name:     Inspiro - enfant
+Template:       inspiro
+
+This is the child theme for Inspiro theme, generated with Generate Child Theme plugin by catchthemes.
+
+Right to Left text support.
+*/
+@import url("../inspiro/rtl.css");
