@@ -34,7 +34,7 @@ define( 'DB_CHARSET', 'utf8mb4' );
 define( 'DB_COLLATE', '' );*/
 
 /* ClearDB*/
-
+/*
 define( 'DB_NAME', 'heroku_e2bbacb7dec8b58' );
 
 define( 'DB_USER', 'bd84b4dde9129f' );
@@ -45,12 +45,12 @@ define( 'DB_HOST', 'eu-cdbr-west-03.cleardb.net' );
 
 define( 'DB_CHARSET', 'utf8mb4' );
 
-define( 'DB_COLLATE', '' );
+define( 'DB_COLLATE', '' );*/
 
 /* DEV */
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-/*
+
 define( 'DB_NAME', 'onyva_travel' );
 
 define( 'DB_USER', 'root' );
@@ -61,7 +61,7 @@ define( 'DB_HOST', 'localhost' );
 
 define( 'DB_CHARSET', 'utf8mb4' );
 
-define( 'DB_COLLATE', '' );*/
+define( 'DB_COLLATE', '' );
 
 /**#@+
  * Authentication unique keys and salts.
