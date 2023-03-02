@@ -21,32 +21,37 @@
 /* 			PROD 		*/
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'xi640wb8kkk4wty1' );
-//define( 'DB_NAME', 'heroku_e2bbacb7dec8b58' );
+/*define( 'DB_NAME', 'xi640wb8kkk4wty1' );
 
-/** Database username */
 define( 'DB_USER', 'lbbjcuapvwwxb7i5' );
-//define( 'DB_USER', 'bd84b4dde9129f' );
 
-/** Database password */
 define( 'DB_PASSWORD', 'ze4pbthfi9iyt4uo' );
-//define( 'DB_PASSWORD', '1be0fcfa' );
 
-/** Database hostname */
 define( 'DB_HOST', 'ulsq0qqx999wqz84.chr7pe7iynqr.eu-west-1.rds.amazonaws.com' );
-//define( 'DB_HOST', 'eu-cdbr-west-03.cleardb.net' );
 
-/** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
 
-/** The database collate type. Don't change this if in doubt. */
+define( 'DB_COLLATE', '' );*/
+
+/* ClearDB*/
+
+define( 'DB_NAME', 'heroku_e2bbacb7dec8b58' );
+
+define( 'DB_USER', 'bd84b4dde9129f' );
+
+define( 'DB_PASSWORD', '1be0fcfa' );
+
+define( 'DB_HOST', 'eu-cdbr-west-03.cleardb.net' );
+
+define( 'DB_CHARSET', 'utf8mb4' );
+
 define( 'DB_COLLATE', '' );
 
 /* DEV */
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-
-/*define( 'DB_NAME', 'onyva_travel' );
+/*
+define( 'DB_NAME', 'onyva_travel' );
 
 define( 'DB_USER', 'root' );
 
